@@ -32,7 +32,7 @@ For the Database, open the command prompt and run mongod, and open the atlas com
 I learnt from [Source]https:https://levelup.gitconnected.com/authentication-using-jwt-in-mern-1cc5c8ccd03c for more information.
 
 
-![Error](https://github.com/HSarfaraz/MERN-Auth-jwth/blob/main/error.png)
+![error](https://github.com/HSarfaraz/MERN-Auth-jwt/blob/main//error.png)
 
 ![signup](https://github.com/HSarfaraz/MERN-Auth-jwt/blob/main/signup.png)
 
