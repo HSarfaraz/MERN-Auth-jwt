@@ -17,7 +17,7 @@ npm install react-bootstrap bootstap react-router-dom axios
 
 On the backend, cd backend, you can run:
 
-### `nodemon server.js`
+### `nodemon index`
 
 In Database, we created with the name authlevelup and collection name as users
 
