@@ -1,4 +1,4 @@
-# MERN CRUD Exercise Tracker App using Class Component
+# MERN Auth App using JWT 
 
 This project was bootstrapped with CRA using, React, Node, Mongodb Stack.
 
